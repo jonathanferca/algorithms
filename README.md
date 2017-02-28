@@ -1,2 +1,2 @@
-# algorithms
-Algorithms testings repository
+# Algorithms
+Repository used to learn and test algorithms
